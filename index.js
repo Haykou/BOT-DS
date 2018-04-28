@@ -51,4 +51,4 @@ bot.on('messsage', message => {
         message.channel.send({embed: xp_embed});
 }}})        
 
-bot.login("NDM5ODI5ODAzMTk4MDU0NDAw.DcY3AA.N0e8oP-nFGWbUpPTGQHZVbiSaes'");
+bot.login("process.env.TOKEN");
